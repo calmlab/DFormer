@@ -2,3 +2,7 @@
 *.json
 *.pdf
 *.jpg
+datasets/coco/
+output/
+output_0513_iter_14000/
+output_test/
