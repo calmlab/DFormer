@@ -2,6 +2,10 @@
 *.json
 *.pdf
 *.jpg
+*.png
+*.tar
+*.zip
+*.txt
 output/
 output_0513_iter_14000/
 output_test/
